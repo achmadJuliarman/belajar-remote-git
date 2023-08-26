@@ -4,3 +4,6 @@
 [submodule "librariesmyLib"]
 	path = librariesmyLib
 	url = https://github.com/achmadJuliarman/tubes-tekkom.git
+[submodule "lib"]
+	path = lib
+	url = https://github.com/achmadJuliarman/tubes-tekkom.git
